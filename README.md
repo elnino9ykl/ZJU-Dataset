@@ -7,7 +7,7 @@
 Please download the dataset from the link.
 
 # Publications
-If you are using this dataset in your research, please consider cite our paper:
+If you are using this dataset in your research, please consider citing any of the following papers:
 
 **Bridging the Day and Night Domain Gap for Semantic Segmentation.**
 E. Romera, L.M. Bergasa, K. Yang, J.M. Álvarez, R. Barea. 
