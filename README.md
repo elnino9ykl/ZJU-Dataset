@@ -10,6 +10,8 @@
 
 Please download the dataset from the link.
 
+![Example segmentation](zju_night.jpg?raw=true "Example segmentation")
+
 # Publications
 If you are using this dataset in your research, please consider citing any of the following papers:
 
