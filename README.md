@@ -19,17 +19,6 @@ If you are using this dataset in your research, please consider citing any of th
 E. Romera, L.M. Bergasa, K. Yang, J.M. Álvarez, R. Barea. 
 IEEE Intelligent Vehicles Symposium (**IV**), Paris, France, June 2019. [[PDF](http://wangkaiwei.org/file/publications/iv2019_eduardo.pdf)]
 
-```
-@inproceedings{romera2019bridging,
-title={Bridging the day and night domain gap for semantic segmentation},
-author={Romera, Eduardo and Bergasa, Luis M and Yang, Kailun and Alvarez, Jose M and Barea, Rafael},
-booktitle={2019 IEEE Intelligent Vehicles Symposium (IV)},
-pages={1312--1318},
-year={2019},
-organization={IEEE}
-}
-```
-
 **See Clearer at Night: Towards Robust Nigttime Semantic Segmentation through Day-Night Image Conversion.**
 L. Sun, K. Wang, K. Yang, K. Xiang. 
 Artificial Intelligence and Machine Learning in Defense Applications, International Society for Optics and Photonics, Strasbourg, France, September 2019. [[PDF](http://wangkaiwei.org/file/publications/spie2019_lei.pdf)]
